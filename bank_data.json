@@ -1,0 +1,143 @@
+{
+    "SBIN0000001": {
+        "merchants": [
+            {
+                "name": "BookHive",
+                "ifsc_code": "SBIN0000001",
+                "password": "vault007",
+                "amount": 19029.0,
+                "timestamp": "1744384974",
+                "mid": "c6a11311c5090fa9"
+            }
+        ],
+        "users": [
+            {
+                "name": "Karan",
+                "ifsc_code": "SBIN0000001",
+                "password": "vault007",
+                "amount": 2900.0,
+                "timestamp": "1744384974",
+                "uid": "dd2d993b2f4757cf",
+                "mobile_number": "9345678901",
+                "mmid": "129fa251298e0640",
+                "pin": "1234"
+            }
+        ]
+    },
+    "SBIN0000002": {
+        "merchants": [
+            {
+                "name": "MangoMart",
+                "ifsc_code": "SBIN0000002",
+                "password": "pass123",
+                "amount": 7463,
+                "timestamp": "1744384974",
+                "mid": "5e62b45fb6d8c91e"
+            }
+        ],
+        "users": [
+            {
+                "name": "Amit",
+                "ifsc_code": "SBIN0000002",
+                "password": "pass123",
+                "amount": 4398,
+                "timestamp": "1744384974",
+                "uid": "6245a60cef78e18e",
+                "mobile_number": "9876543210",
+                "mmid": "5c867fcaa422f39c",
+                "pin": "1234"
+            }
+        ]
+    },
+    "SBIN0000003": {
+        "merchants": [],
+        "users": []
+    },
+    "ICIC0000001": {
+        "merchants": [],
+        "users": []
+    },
+    "ICIC0000002": {
+        "merchants": [],
+        "users": []
+    },
+    "ICIC0000003": {
+        "merchants": [],
+        "users": []
+    },
+    "HDFC0000001": {
+        "merchants": [
+            {
+                "name": "Cafe24",
+                "ifsc_code": "HDFC0000001",
+                "password": "lock321",
+                "amount": 15109,
+                "timestamp": "1744384974",
+                "mid": "321aae911a8fbcb7"
+            }
+        ],
+        "users": [
+            {
+                "name": "Neha",
+                "ifsc_code": "HDFC0000001",
+                "password": "lock321",
+                "amount": 7512,
+                "timestamp": "1744384974",
+                "uid": "ad11926e2c2a6d13",
+                "mobile_number": "9988776655",
+                "mmid": "4adc72c420f5f123",
+                "pin": "1234"
+            }
+        ]
+    },
+    "HDFC0000002": {
+        "merchants": [
+            {
+                "name": "FlipZon",
+                "ifsc_code": "HDFC0000002",
+                "password": "key789",
+                "amount": 7382,
+                "timestamp": "1744384974",
+                "mid": "a977b0746f004eac"
+            }
+        ],
+        "users": [
+            {
+                "name": "Sameer",
+                "ifsc_code": "HDFC0000002",
+                "password": "key789",
+                "amount": 7983,
+                "timestamp": "1744384974",
+                "uid": "1fba9f59eba0eea4",
+                "mobile_number": "9001122233",
+                "mmid": "71e46ea417c3ef2c",
+                "pin": "1234"
+            }
+        ]
+    },
+    "HDFC0000003": {
+        "merchants": [
+            {
+                "name": "QuickPay",
+                "ifsc_code": "HDFC0000003",
+                "password": "secure456",
+                "amount": 6164,
+                "timestamp": "1744384974",
+                "mid": "f37661bcfc226660"
+            }
+        ],
+        "users": [
+            {
+                "name": "Riya",
+                "ifsc_code": "HDFC0000003",
+                "password": "secure456",
+                "amount": 4736,
+                "timestamp": "1744384974",
+                "uid": "972bc31941f15881",
+                "mobile_number": "9123456789",
+                "mmid": "a33904af7e159c53",
+                "pin": "1234"
+            }
+        ]
+    }
+}
